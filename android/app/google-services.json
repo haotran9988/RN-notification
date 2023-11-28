@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160880302355",
+    "project_id": "rn-haott",
+    "storage_bucket": "rn-haott.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160880302355:android:30dcdf36c3f864fd14e2e6",
+        "android_client_info": {
+          "package_name": "com.rn_haott"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDC605pqvAqAg_Fd3asjheqlanobCWZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
